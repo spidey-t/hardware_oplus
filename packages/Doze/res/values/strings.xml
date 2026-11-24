@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="doze_settings_help_title">Doze settings help</string>
+    <string name="doze_settings_help_text">These features use sensor events to display notifications in Doze mode. The selected sensor is enabled when a notification arrives, helping reduce battery usage. You can also enable the selected sensor immediately after the screen turns off, which may increase battery usage.</string>
+</resources>
